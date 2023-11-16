@@ -8,6 +8,7 @@ html, body {
     background-image: url('../img/landscape.jpg');
     background-size: cover;
     background-position: bottom center;
+    background-color:pink;
 }
 
 input {
